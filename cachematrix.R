@@ -3,6 +3,9 @@
 
 ## Write a short comment describing this function
 
+##This is just a test of git push to remote
+##Another test now I will commit it also and then push it to remote
+
 makeCacheMatrix <- function(x = matrix()) {
 
 }
